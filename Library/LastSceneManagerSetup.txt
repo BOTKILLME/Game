@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Clony Bird.unity
+  isLoaded: 1
+  isActive: 1
